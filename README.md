@@ -116,7 +116,7 @@ This project was developed to:
 
 **Cemre Yurtsever**
 
-🎓 Computer Engineering Student  
+🎓 Software Engineering Student  
 🤖 AI & Software Development Enthusiast  
 💻 Python • C# • Java  
 
